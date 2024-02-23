@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @MoshiurRahman-BD
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning python, django, machine learning and data science.
-- 💞️ I’m looking to collaborate on programming.
+- 👀 I’m a business graduate with 12 years+ of experience of working in accounting and data analysis positions in a reputed bank and several local and multinational companies.
+- 💞️ I've skill in Excel, MS Access, Power BI, Python, SQL, Django, HTML, CSS, QuickBooks
+- 🌱 I’m currently learning React JS, Laravel, machine learning and data science.
+- 💞️ I’m looking to collaborate on data analysis.
 - 📫 How to reach me ...mrrumon@gmail.com
 
 <!---
